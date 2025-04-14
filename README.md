@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there, I'm [Moe!](https://www.linkedin.com/in/mahmoud-elsayed-esaa/)
 
 I'm **Mahmoud Elsayed**, a passionate **Software Engineer** specializing in **Android Development**. who loves building cool stuff.
 
@@ -8,11 +8,10 @@ I am a software engineer with a focus on Android applications. With a keen inter
 
 ## Top Projects
 
-- [FaceX](https://github.com/MahmoudElsayedEssa/FaceX) - Face Recognition - ⭐ 1 - Language: Kotlin - Forks: 0
-- [Particlize](https://github.com/MahmoudElsayedEssa/Particlize) - Particlize effect - ⭐ 11 - Language: Kotlin - Forks: 1
-- [MorphTextTransition](https://github.com/MahmoudElsayedEssa/MorphTextTransition) - Morphing Text Transition Example - ⭐ 13 - Language: Kotlin - Forks: 0
-- [SharedElementTransition](https://github.com/MahmoudElsayedEssa/SharedElementTransition) - Shared Element Transition Example - ⭐ 19 - Language: Kotlin - Forks: 1
-
+- [FaceX](https://github.com/MahmoudElsayedEssa/FaceX) - Face Recognition
+- [Particlize](https://github.com/MahmoudElsayedEssa/Particlize) - Particlize 
+- [MorphTextTransition](https://github.com/MahmoudElsayedEssa/MorphTextTransition) - Morphing Text
+- 
 ## GitHub Stats
 
 🌟 **Public Repositories**: 27
